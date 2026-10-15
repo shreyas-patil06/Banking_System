@@ -27,9 +27,9 @@ The goal is to build a simple console-based Banking System where users can creat
 ```text
 BankingSystem/
 ├── Main.java
-├── Account.java          (Planned)
+├── Account.java         
 ├── Bank.java             (Planned)
-├── Transaction.java      (Planned)
+├── Transaction.java      
 └── AccountDetails.java   (Planned)
 ```
 
