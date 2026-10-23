@@ -2,10 +2,10 @@
 import java.util.Scanner;
 public class Account {
     Scanner sc=new Scanner(System.in);
-    static int accountNumber=101;
-    String name;
-    double balance=0;
-     int noOfacc=0;
+        static int accountNumber=101;
+        String name;
+        double balance=0;
+        int noOfacc=0;
 
     Account(){
         System.out.print("Enetr Name: ");
